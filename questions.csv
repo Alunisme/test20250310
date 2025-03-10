@@ -1,0 +1,6 @@
+question,type,option1,option2,option3,option4,option5,correct
+1 + 6 = ?,multiple-choice,2,5,7,16,52,7
+5 * 9 = ?,multiple-choice,20,40,50,55,45,45
+9 / 3 = ?,multiple-choice,3,5,0,1,2,3
+25 * 25 = ?,multiple-choice,125,625,555,333,600,625
+80 * 3 = ?,fill-in-the-blank,,,,,,240
